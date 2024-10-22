@@ -1,0 +1,26 @@
+Date,Invoice Amount,Tags
+2024-01-01,159.2,"cash, loyaltycard"
+2024-01-02,480.02,"cash, discounted, loyaltycard"
+2024-01-03,721.0,creditcard
+2024-01-04,261.32,"upi, discounted, loyaltycard"
+2024-01-05,608.09,"upi, discounted"
+2024-01-06,825.73,"creditcard, discounted, loyaltycard"
+2024-01-07,946.19,creditcard
+2024-01-08,755.2,"upi, discounted"
+2024-01-09,191.51,"upi, discounted"
+2024-01-10,457.28,"creditcard, discounted, loyaltycard"
+2024-01-11,379.1,"creditcard, discounted"
+2024-01-12,128.26,creditcard
+2024-01-13,649.03,"upi, discounted, loyaltycard"
+2024-01-14,730.11,"creditcard, discounted, loyaltycard"
+2024-01-15,939.0,"creditcard, discounted"
+2024-01-16,166.61,"upi, discounted, loyaltycard"
+2024-01-17,354.25,"creditcard, discounted"
+2024-01-18,941.0,"creditcard, discounted"
+2024-01-19,440.94,"cash, discounted, loyaltycard"
+2024-01-20,358.77,cash
+2024-01-21,354.07,"upi, discounted, loyaltycard"
+2024-01-22,576.97,"creditcard, discounted"
+2024-01-23,496.23,"cash, discounted, loyaltycard"
+2024-01-24,421.83,"creditcard, discounted, loyaltycard"
+2024-01-25,37.24,"cash, loyaltycard"
